@@ -1,0 +1,21 @@
+101
+do duc canh
+cau giay
+11
+102
+bui thi lua
+dong da
+12
+103
+nguyen thi lan anh
+nguyen trai
+13
+104
+Bui Thi Thanh
+Ha Dong
+12
+106
+Hoang Ngoc Anh
+Ha Dong
+16
+-1
